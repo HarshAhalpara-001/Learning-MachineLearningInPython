@@ -1,0 +1,2 @@
+Now the question is how to use the model again. So using the model, we can use *tf.keras.models.load_model(MODEL_PATH")*
+and after it you can use this in your Notebook.
